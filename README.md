@@ -1,5 +1,5 @@
 # 📶 WiFi / Network Device Monitor
-
+Kunjungi : [PasteLkun](https://pastelkun.com/wifi-monitor-cara-gampang-scan-device-di-jaringan-lu/)
 <img width="1875" height="933" alt="Opera Snapshot_2026-01-18_080915_localhost" src="https://github.com/user-attachments/assets/fd07fc20-4541-4700-a8ff-9a4bd4faff1e" />
 
 Aplikasi ini adalah **network scanner berbasis Python** yang digunakan untuk **menampilkan daftar device (HP, laptop, TV, IoT, dll)** yang sedang **aktif dan terhubung ke jaringan LAN atau WiFi**.
